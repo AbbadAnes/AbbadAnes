@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbbadAnes
-- 👀 I’m interested in Machine Learning, Fashion industry
-- 🌱 I’m currently learning Fashion Design
+- 👀 I’m interested in Machine Learning, Natural language processing
+- 🌱 I’m currently learning speech to text
 - 💞️ I’m looking to collaborate on ( not for the moment )
 - 📫 How to reach me anes.abbad.abdelfetah@gmail.com
                      https://www.linkedin.com/in/anes-a-abbad-b66472138/
